@@ -1,16 +1,20 @@
-## Hi there 👋
+## stanley wood.
 
-<!--
-**stanleyraywood/stanleyraywood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+designer, maker, writer. based in stockholm.
 
-Here are some ideas to get you started:
+i build tools for people—apps, design languages,
+and the systems that hold all that together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently: VP Design at DoorDash · Wolt · Deliveroo across 40+ markets.
+writing at [letters.stanleywood.co](https://letters.stanleywood.co/)
+
+---
+
+**making**
+- [mono.](https://github.com/stanleyraywood/mono) — monochrome film emulator for iOS. hp5, tri-x, acros.
+- [pomo.](https://github.com/stanleyraywood/pomo) — pomodoro timer for macOS.
+
+**thinking**
+- design languages are grammar, not vocabulary.
+- care is a moral position, not a sentiment.
+- whoever cares most wins.
