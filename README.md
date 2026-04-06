@@ -11,7 +11,7 @@ writing at [letters.stanleywood.co](https://letters.stanleywood.co/)
 ---
 
 **making**
-- [mono](https://github.com/stanleyraywood/mono) — monochrome film emulator for iOS. hp5, tri-x, acros.
+- [mono](https://github.com/stanleyraywood/mono) — monochrome film emulator for iOS.
 - [pomo](https://github.com/stanleyraywood/pomo) — pomodoro timer for macOS.
 - [echo](https://github.com/stanleyraywood/echo) — writing tool for apple platforms.
 
