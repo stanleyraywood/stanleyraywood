@@ -15,3 +15,5 @@ writing at [letters.stanleywood.co](https://letters.stanleywood.co/)
 - [pomo](https://github.com/stanleyraywood/pomo) — pomodoro timer for macOS.
 - [echo](https://github.com/stanleyraywood/echo) — writing tool for apple platforms.
 
+**thinking**
+- [toyo](https://github.com/stanleyraywood/toyo) — design language files for makers. type, colour, motion.
