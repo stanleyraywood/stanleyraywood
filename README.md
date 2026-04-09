@@ -15,3 +15,4 @@ and the systems that hold all that together.
 
 **thinking**
 - [toyo](https://github.com/stanleyraywood/toyo) — design language skills for makers. 
+- [maestro.](https://github.com/stanleyraywood/maestro) — critique from the masters.
