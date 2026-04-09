@@ -5,8 +5,6 @@ designer, maker, writer. based in stockholm.
 i build tools for people who care—apps, design languages,
 and the systems that hold all that together.
 
-currently: VP Design at DoorDash · Wolt · Deliveroo across 40+ markets.
-writing at [letters.stanleywood.co](https://letters.stanleywood.co/)
 
 ---
 
