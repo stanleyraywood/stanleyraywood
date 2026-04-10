@@ -12,7 +12,7 @@ and the systems that hold all that together.
 - [mono](https://github.com/stanleyraywood/mono) — monochrome film emulator for iOS.
 - [pomo](https://github.com/stanleyraywood/pomo) — pomodoro timer for macOS.
 - [echo](https://github.com/stanleyraywood/echo) — writing tool for apple platforms.
-- [memo](https://github.com/stanleyraywood/memo) — voice-first thinking companion for iOS.
+- [memo](https://github.com/stanleyraywood/memo) — voice thinking companion for iOS.
 
 **thinking**
 - [toyo](https://github.com/stanleyraywood/toyo) — design language skills for makers. 
