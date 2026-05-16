@@ -1,7 +1,7 @@
 ## stanley wood.
 
-designer, maker, writer. based in stockholm.
+Maker based in Stockholm.
 
-i build tools for people who care—apps, design languages,
+I build tools for people who care—apps, design languages,
 and the systems that hold all that together.
 
