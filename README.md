@@ -1,4 +1,4 @@
-## stanley wood.
+## stanley wood
 
 Maker based in Stockholm.
 
