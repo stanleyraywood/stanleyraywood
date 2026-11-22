@@ -1,75 +1,70 @@
-# MAKERS MARK
+# MAKER'S MARK
 
-**Who made this. How it was made.**
+**Who made this, and how.**
 
-A simple label for the people, tools and source material behind a piece of work.
+Like the label on food or clothes. Just facts.
 
-We put names on books, credits on films and labels on clothes. Work made with AI deserves the same clarity.
+A simple way to say who made a piece of work, what they did, which tools were used, and who approved the result.
 
-A maker's mark does not ask whether a person or a machine did *more*. It asks who conceived the work, what each contributor did, which tools were used, and who approved the result.
+AI can now do much of the production. That doesn't remove the need to know who made the decisions or who stands behind the work.
 
-It can accompany software, writing, images, objects, films or other work.
+## The file
 
-## The label
+**`MADE.md`**
 
-A mark has five parts:
+A plain Markdown file kept with the work. It can accompany software, writing, design, photographs, films, objects or anything else someone makes.
 
-| Field | What to record |
-| --- | --- |
-| **Work** | Title, date and version, where relevant. |
-| **People** | The people involved and what each actually contributed. |
-| **Tools** | Significant AI tools and what they did. Say plainly when a tool wrote all the code, made an image or drafted the text. |
-| **Sources** | Relevant source material, references, borrowed work or dependencies that need acknowledgement. |
-| **Release** | The person or organisation that reviewed and approved what was published. |
+[Read an example](./EXAMPLE.md) · [Copy the template](./TEMPLATE.md)
 
-Keep the description specific. Leave out fields that genuinely do not apply. Do not invent precision.
+## What goes in it
 
-### Example
+1. **Work** — name, date, version and maker.
+2. **Who did what** — a short record of contributions. Use **Human**, **AI** or **Both**, and explain the actual work.
+3. **Tools** — name significant AI tools and what each did.
+4. **What was checked** — say what the maker reviewed or tested, and what remains unchecked.
+5. **Sources** — credit relevant third-party work and material.
+6. **Responsibility** — name who approved the work and where problems can be reported.
 
-> **Work:** Example Project · v1.0 · 22 November 2026
->
-> **People:** Alex Example — concept, product design, writing, direction and final review.
->
-> **Tools:** Claude Code (Anthropic) — wrote the application code and tests under Alex's direction.
->
-> **Sources:** Original work; third-party libraries credited in the repository.
->
-> **Release:** Alex Example — reviewed and approved the published version.
-
-*Fictional example. This is a declaration of contributions, not proof that they occurred.*
+The entries should describe what happened, not what was intended. If AI wrote the code, say so. If you tested the result but didn't inspect the code, say that too.
 
 ## How to use it
 
-Copy [TEMPLATE.md](./TEMPLATE.md) into your project as `MADE.md` and complete the fields. Put it at the root of a software repository, or link to it from the credits, colophon, description or footer of other work.
+Copy [TEMPLATE.md](./TEMPLATE.md) to the root of your project and rename it **`MADE.md`**.
 
-The file belongs with the work, not on a central register. Update it when the people, tools or nature of the work materially change.
+Fill in what applies. Remove what doesn't. Keep it short.
 
-A short public credit can simply read:
+For other kinds of work, include the label in the credits or link to the file from the publication. You don't need a GitHub repository to use a maker's mark.
 
-**Made by [person or studio]. With [tools].** [How it was made → MADE.md]
+A short reference elsewhere might read:
+
+> Made by [name]. Made with [tools]. [See the maker's mark](./MADE.md).
+
+Update the file when the people, methods or tools materially change.
 
 ## Principles
 
-**Credit the decisions.** Design, research, writing, direction, editing, implementation and review are different kinds of work. Name them rather than collapsing everything into “created by”.
+**Credit decisions and production separately.** Conceiving, designing, directing, writing, coding and checking are different contributions.
 
-**Be plain about AI.** “Wrote the code” is more useful than “AI-assisted” when that is what happened. A tool is not a human co-author.
+**Use ordinary words.** “Wrote the code using Claude Code” says more than “AI-assisted”.
 
-**No percentages.** A percentage of “AI-generated” work rarely explains the contribution. Say what happened instead.
+**Say what was checked.** Reviewing code is not the same as testing a working product. Neither proves a project has no defects.
 
-**Keep it proportionate.** Most work needs a few lines, not a production diary. Prompt logs and model version numbers are optional.
+**No percentages.** “70% AI” tells us less than an account of what each contributor did.
 
-**Take responsibility.** Name who approved the release. A declaration should not become a way to evade ownership of mistakes.
+**No ceremony.** This should take a few minutes, not require a new platform or certification.
 
-## What this is not
+## What it isn't
 
-A maker's mark is **self-declared**. It does not independently verify identity, provenance, ownership, copyright, safety or quality. It is not a licence, a certificate or a substitute for crediting third-party material.
+A maker's mark is a **self-declaration**. It is not independent proof of authorship, a copyright licence, a security review or a guarantee of quality. It does not replace the attribution, notices or licences required for third-party work.
 
-[Content Credentials (C2PA)](https://spec.c2pa.org/) provides technical approaches to signed media provenance. [AI Declaration](https://ai-declaration.org/) and [AIUSE.md](https://aiuse.md/) focus on AI-use reporting. MAKERS MARK is a lighter, work-centred credit label for creative decisions and production.
+Technical provenance systems such as [Content Credentials (C2PA)](https://spec.c2pa.org/) serve a different purpose. This label is a plain-language account of contributions and responsibility.
 
-## Status
+## About
 
-**Draft 0.1 · 22 November 2026**
+**MAKER'S MARK** is an open proposal by **WOOD OFFICE**, initiated by Stanley Wood.
 
-An open proposal from **WOOD OFFICE**. The first draft was prepared with ChatGPT from Stanley Wood's concept and brief. See [this proposal's own maker's mark](./MADE.md).
+**Status:** Draft 0.2 · 22 November 2026
 
-The convention is intended to be copied, adapted and improved. Suggested dedication: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). Licence and wording remain subject to the maker's editorial review.
+This draft is public for review, not a finished standard. [Read how this proposal was made](./MADE.md).
+
+The intention is for anyone to copy and adapt it. A formal open licence can be confirmed before a final release.
